@@ -1,0 +1,1 @@
+This README is to initialize the main branch of my general_coding repo
